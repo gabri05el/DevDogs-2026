@@ -1,16 +1,13 @@
-## Hi there 👋
+# DevDogs
 
-<!--
-**DevDogs-2026/DevDogs-2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao repositório dos DevDogs! Abaixo estão os membros da equipe e suas respectivas funções no projeto.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Nome | Função |
+| :--- | :--- |
+| **Gabriel da Fonseca Flauzino** | Project Owner |
+| **Hector Saiki Colombani de Faria** | Dev Team |
+| **Igor Vinicius de Araujo Pece Dos Santos** | Dev Team |
+| **João Vitor Pazzini Theodoro Gama** | Dev Team |
+| **Lucas Vilas Boas Fukuoka** | Scrum Master |
+| **Marcos Antonio Floreano Gonçalves** | Dev Team |
+| **Vitor Souza Leal** | Dev Team |
